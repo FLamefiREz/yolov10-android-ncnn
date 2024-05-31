@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">yolov10-ncnn-bitmap</string>
+
+    <string-array name="model">
+        <item>yolov5s</item>
+        <item>yolov5n </item>
+        <item>yolov5m</item>
+        <item>yolov5s-int8</item>
+    </string-array>
+</resources>
